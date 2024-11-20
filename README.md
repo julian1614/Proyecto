@@ -5,6 +5,19 @@ Presentado por:
 - Trujillo Bonilla Julián Alberto
 - Vargas Herrera José Leonardo
 
+Descripción General del Proyecto 
+Objetivo: 
+Facilitar la compra de ropa masculina de alta calidad a través de una plataforma móvil, ofreciendo una amplia variedad de estilos para satisfacer las necesidades del hombre moderno. Esta plataforma está especializada para el comercio en Neiva.
+ 
+Tecnologías utilizadas:
+
+ Backend: Spring Boot con Java.
+- Frontend: Ionic con Angular.
+- Base de Datos: MySQL.
+- Aplicación Móvil: Generada con Ionic para dispositivos Android.
+
+
+
 EVIDENCIAS DEL PROYECTO
 
 ![paso 1](https://github.com/user-attachments/assets/b7e4ea1f-1f06-44bd-937c-ad4198aaa6e9)
