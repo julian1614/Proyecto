@@ -9,7 +9,7 @@ Descripción General del Proyecto
 Objetivo: 
 Facilitar la compra de ropa masculina de alta calidad a través de una plataforma móvil, ofreciendo una amplia variedad de estilos para satisfacer las necesidades del hombre moderno. Esta plataforma está especializada para el comercio en Neiva.
  
-Tecnologías utilizadas:
+TECNOLOGIAS UTILIZADAS:
 
  Backend: Spring Boot con Java.
 - Frontend: Ionic con Angular.
