@@ -13,7 +13,11 @@ Facilitar la compra de ropa masculina de alta calidad a través de una plataform
  VIDEO EXPLICATIVO DE PEDIDO- DIRECCION DE ENTREGA
  
 https://youtu.be/nhaBpjoVC2s
- 
+
+ENLACE DEL FRONTEND
+
+https://drive.google.com/drive/folders/1QeHPKDqW4e8ifRUgCKme22g3w7Su65Ft?usp=drive_link
+
 TECNOLOGIAS UTILIZADAS:
 
  Backend: Spring Boot con Java.
