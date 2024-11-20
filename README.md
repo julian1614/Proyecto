@@ -17,7 +17,18 @@ TECNOLOGIAS UTILIZADAS:
 - Base de Datos: MySQL.
 - Aplicación Móvil: Generada con Ionic para dispositivos Android.
 
+Funcionalidades Principales 
 
+Frontend
+- Agregar productos: Los usuarios pueden añadir productos al catálogo.
+- Eliminar productos: Permite la gestión del inventario eliminando productos.
+- Editar productos: Facilita la actualización de información de productos.
+- Gestión de pedidos: Validación y eliminación de pedidos realizados.
+- 
+Backend
+
+- Diseño de la arquitectura de la base de datos: Base de datos relacional optimizada para la gestión de productos y pedidos.
+- Implementación de rutas API: Proporciona endpoints para la interacción entre el frontend y la base de datos.
 
 EVIDENCIAS DEL PROYECTO
 
